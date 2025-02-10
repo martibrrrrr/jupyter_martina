@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject1.iml" filepath="$PROJECT_DIR$/.idea/PythonProject1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/cefalea_vasomotoria.iml" filepath="$PROJECT_DIR$/.idea/cefalea_vasomotoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../class-bootcamp-jupyter-martina/.idea/class-bootcamp-jupyter-martina.iml" filepath="$PROJECT_DIR$/../class-bootcamp-jupyter-martina/.idea/class-bootcamp-jupyter-martina.iml" />
+>>>>>>> 8a1ad46 (Initial commit)
     </modules>
   </component>
 </project>
