@@ -1,0 +1,11 @@
+#scarico pacchetti e dipendenze. installo il file.txt
+jupyter
+pandas==2.2.3
+matplotlib
+seaborn
+#opzione: pip install -r requirements.txt
+
+#pip freeze. mostra tutti pacchetti extra che ho scaricato
+#pip freeze > requirements2.txt creo un file con i pacchetti
+
+
